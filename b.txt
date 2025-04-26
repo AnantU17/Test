@@ -1,1 +1,2 @@
 I am in "B" file
+I had edit in B

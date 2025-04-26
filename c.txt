@@ -1,1 +1,2 @@
 I am  in "C" file
+Now I edit C
